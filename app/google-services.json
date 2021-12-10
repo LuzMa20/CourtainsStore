@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530932317611",
+    "project_id": "cortinas-a1e23",
+    "storage_bucket": "cortinas-a1e23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530932317611:android:66726606524ca9c13066ee",
+        "android_client_info": {
+          "package_name": "com.luzmag.courtainsstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530932317611-e7f45sirdr2leldplg2ec1cqmep6guci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyzQY3RnQOqUCcH_4VAFoaXghlREAFSS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530932317611-e7f45sirdr2leldplg2ec1cqmep6guci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

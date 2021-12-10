@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Courtains Store</string>
+    <string name="txt_login">LOGIN</string>
+    <string name="txt_checkin">CHECK IN</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="hint_email">email@email.com</string>
+    <string name="hint_password">Your password</string>
+
+    <string name="txt_tSellerRegister">Seller Register</string>
+    <string name="txt_name">Full Name</string>
+    <string name="txt_id">Id Number</string>
+    <string name="txt_save">Save</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_id">Id Number</string>
+    <string name="txt_show">Consult</string>
+    <string name="txt_modify">Modify</string>
+    <string name="txt_error">Invalid user/password</string>
+    <string name="txt_ok">User registered</string>
+    <string name="txt_sale">Sales Register</string>
+    <string name="txt_advance">Advance Register</string>
+    <string name="txt_product">Product Register</string>
+    <string name="txt_code">Product Code</string>
+    <string name="txt_type">Product Type</string>
+    <string name="txt_color">Product Color</string>
+    <string name="txt_price">Product Price x M2</string>
+
+</resources>
